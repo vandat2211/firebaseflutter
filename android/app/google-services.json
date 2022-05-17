@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090346567853",
+    "project_id": "music-ef551",
+    "storage_bucket": "music-ef551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090346567853:android:113d60639c3f83b427de24",
+        "android_client_info": {
+          "package_name": "com.example.firebaseflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090346567853-tmceimq5birn1ssbnah7s8kv079l96b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Hu45zrkIuj09zAeDiE3_y6YHgnWm16o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090346567853-tmceimq5birn1ssbnah7s8kv079l96b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
